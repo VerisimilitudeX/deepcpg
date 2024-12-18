@@ -91,7 +91,7 @@ and then install DeepCpG using ``setup.py``:
 Getting started
 ===============
 
-1. Store known CpG methylation states of each cell into a tab-delimted file with the following columns:
+1. Store known CpG methylation states of each cell into a tab-delimited file with the following columns:
 
 * Chromosome (without chr)
 * Position of the CpG site on the chromosome starting with one
